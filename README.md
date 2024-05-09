@@ -30,13 +30,13 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
  </div>
 
 
-<h2 align="left">📜 Certifications 📜</h2>
 <div align="left">
-    <h3>- Certification in Data Science from Entity Academy, San Antonio, TX (November 2021 to July 2022)</h3>
-    <h3>- Certification in Journalism from Pasadena City College (1992)</h3>
-    <h3>- Certification in Property Management from Pasadena City College (1991)</h3>
-    <h3>- Certification of Marketing Management from Pasadena City College (1988)</h3>
-    <h3>- Certified Title 31 and Anti-Money Laundering Specialist</h3>
+  <h2 align="left">📜 Certifications 📜</h2>
+    <h4>- Certification in Data Science from Entity Academy, San Antonio, TX (November 2021 to July 2022)</h4>
+    <h4>- Certification in Journalism from Pasadena City College (1992)</h4>
+    <h>- Certification in Property Management from Pasadena City College (1991)</h4>
+    <h4>- Certification of Marketing Management from Pasadena City College (1988)</h4>
+    <h4>- Certified Title 31 and Anti-Money Laundering Specialist</h4>
 </div>
 
 <h2 align="left">📊 Github Stats 📊</h2>
