@@ -30,6 +30,30 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
  </div>
 
 
+<h2 align="left">💼 Skills 💼</h2>
+
+<div align="left">
+    <h4>- 🔄 Succession Planning: Strategies for Equity Ownership Transfer</h4>
+    <h4>- 🤝 Mentoring/Coaching Practices</h4>
+    <h4>- 🌟 Next Generation Leadership Development</h4>
+    <h4>- 🏪 Franchising</h4>
+    <h4>- 🤖 Marketing Automation and Workflows</h4>
+    <h4>- 🏢 Facilities Management</h4>
+    <h4>- 🏠 Residential/Commercial Property Management</h4>
+    <h4>- 💼 Business Development</h4>
+    <h4>- 📈 Marketing Development & Management</h4>
+    <h4>- 🔍 SEO Lead Generation</h4>
+    <h4>- 📣 PR Outreach and Network Building</h4>
+    <h4>- 🏗️ Constructing Brand and Service Campaigns</h4>
+    <h4>- 🌐 Competitive Landscape Analysis</h4>
+    <h4>- 🗓️ Curating and Managing Editorial Calendar</h4>
+    <h4>- 📢 Outreach Paid Advertising</h4>
+    <h4>- 🌱 Franchise Development- Non-Profit Organization Management</h4>
+    <h4>- 💼 Procurement</h4>
+    <h4>- 📝 Private/Public/Government Contract Bidding</h4>
+</div>
+
+
 <div align="left">
   <h2 align="left">📜 Certifications 📜</h2>
     <h4>- Certification in Data Science from Entity Academy, San Antonio, TX (November 2021 to July 2022)</h4>
