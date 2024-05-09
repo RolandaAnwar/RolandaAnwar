@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="left">👋 Hello, I'm Rolanda Anwar</h1>
+<h3 align="left">Founder & Principal Enterprise Architect at Às̩e̩ Advisory and Tech</h3>
 
-<!--
-**RolandaAnwar/RolandaAnwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="left"> 
+  <a href="mailto:anwarrolanda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://www.linkedin.com/in/rolandaanwar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+Seasoned leader with three decades of entrepreneurial expertise, committed to economic equality and driving remarkable success. Raised over $850 million in the past two years. Às̩e̩ Advisory and Tech, a strategic advisory firm, focuses on social economic return on investment and builds alliances for meaningful global impact. Excels in alternative funding, cybersecurity, and asset security, ensuring comprehensive client support. Proven track record and passion make me an invaluable partner for transformative success. Let's collaborate to create something extraordinary. For startup, growth, acquisition, and exit strategies, contact Às̩e̩ Advisory and Tech at www.aseadvisory.com
+ <br>
+
+<br> 
+
+<div align="left">
+ 
+ 🔭 I’m currently working on **Succession Planning Strategies for Equity Ownership Transfer**
+ 
+ 🌱 I’m currently learning more about **Next Generation Leadership Development**
+
+💬 Ask me about **Mentoring/Coaching Practices**
+
+📧 Reach me out: anwarrolanda@gmail.com
+
+ </div>
+
+
+<h2 align="left">📜 Certifications 📜</h2>
+<div align="left">
+    <h3>- Certification in Data Science from Entity Academy, San Antonio, TX (November 2021 to July 2022)</h3>
+    <h3>- Certification in Journalism from Pasadena City College (1992)</h3>
+    <h3>- Certification in Property Management from Pasadena City College (1991)</h3>
+    <h3>- Certification of Marketing Management from Pasadena City College (1988)</h3>
+    <h3>- Certified Title 31 and Anti-Money Laundering Specialist</h3>
+</div>
+
+<h2 align="left">📊 Github Stats 📊</h2>
+
+![Rolanda Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandaAnwar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandaAnwar&show_icons=true&theme=radical)
