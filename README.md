@@ -42,4 +42,3 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 <h2 align="left">📊 Github Stats 📊</h2>
 
 ![Rolanda Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandaAnwar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandaAnwar&show_icons=true&theme=radical)
