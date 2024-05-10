@@ -146,11 +146,11 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 - Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
 
 # 📜 Certifications 📜
-<h4> • Data Science Certification</h4>
-<h4> • Journalism Certification</h4>
-<h4> • Property Management Certification</h4>
-<h4> • Marketing Management Certification</h4>
-<h4> • Title 31 and Anti-Money Laundering Certification</h4>
+<h3> • Data Science Certification</h3>
+<h3> • Journalism Certification</h3>
+<h3> • Property Management Certification</h3>
+<h3> • Marketing Management Certification</h3>
+<h3> • Title 31 and Anti-Money Laundering Certification</h3>
 
 
 # 📊 Github Stats 📊
