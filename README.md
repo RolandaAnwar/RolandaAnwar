@@ -5,7 +5,7 @@
 
 
 <div align="left"> 
-  <a href="https://calendly.com/aseadvisory/affiliate"><img src="https://img.shields.io/badge/Affiliate%20Partnerships-Schedule%20a%20Meeting-green?style=for-the-badge"></a>
+  <a href="https://calendly.com/aseadvisory/affiliate"><img src="https://img.shields.io/badge/Affiliate%20Partnerships-Schedule%20a%20Meeting-orange?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/rolandaanwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
