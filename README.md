@@ -145,15 +145,14 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 ### 🤔 Decision Making
 - Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
 
-<div align="left">
-  <h2 align="left">📜 Certifications 📜</h2>
-    <h4>- Certification in Data Science from Entity Academy, San Antonio, TX (November 2021 to July 2022)</h4>
-    <h4>- Certification in Journalism from Pasadena City College (1992)</h4>
-    <h>- Certification in Property Management from Pasadena City College (1991)</h4>
-    <h4>- Certification of Marketing Management from Pasadena City College (1988)</h4>
-    <h4>- Certified Title 31 and Anti-Money Laundering Specialist</h4>
-</div>
+# 📜 Certifications 📜
+<h4>- Certification in Data Science from Entity Academy, San Antonio, TX (November 2021 to July 2022)</h4>
+<h4>- Certification in Journalism from Pasadena City College (1992)</h4>
+<h4>- Certification in Property Management from Pasadena City College (1991)</h4>
+<h4>- Certification of Marketing Management from Pasadena City College (1988)</h4>
+<h4>- Certified Title 31 and Anti-Money Laundering Specialist</h4>
 
-<h2 align="left">📊 Github Stats 📊</h2>
+
+# 📊 Github Stats 📊
 
 ![Rolanda Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandaAnwar&show_icons=true&theme=radical)
