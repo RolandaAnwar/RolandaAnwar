@@ -30,29 +30,118 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
  </div>
 
 
-<h2 align="left">💼 Skills 💼</h2>
+<h1 align="left">💼 Skills 💼</h1>
 <div align="left">
   
+###  • Enterprise Architecture
 ```code
-  - 🔄 Succession Planning: Strategies for Equity Ownership Transfer
-  - 🤝 Mentoring/Coaching Practices
-  - 🌟 Next Generation Leadership Development
-  - 🏪 Franchising
-  - 🤖 Marketing Automation and Workflows
-  - 🏢 Facilities Management
-  - 🏠 Residential/Commercial Property Management
-  - 💼 Business Development
-  - 📈 Marketing Development & Management
-  - 🔍 SEO Lead Generation
-  - 📣 PR Outreach and Network Building
-  - 🏗️ Constructing Brand and Service Campaigns
-  - 🌐 Competitive Landscape Analysis
-  - 🗓️ Curating and Managing Editorial Calendar
-  - 📢 Outreach Paid Advertising
-  - 🌱 Franchise Development- Non-Profit Organization Management
-  - 💼 Procurement
-  - 📝 Private/Public/Government Contract Bidding
-  ```
+- Organizational Architecture
+- Business Architecture
+- Information Architecture
+- Application Architecture
+- Technological Architecture
+```
+###  • Thought Leader 
+###  • Politics 
+###  • Organizational Buy-in 
+###  • A Mentor and A Guide Supporting Information and Communication Technology Decision Making 
+###  • Common Language Trainer 
+###  • EA Model / Artifacts 
+###  • Commitment 
+###  • Business Driven Approach 
+###  • Organizational Culture 
+###  • Training / Education 
+
+### • Programming Languages
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java" /><br>
+</div>
+  
+### • Analytical Tools
+```
+- SAS 📊
+- Hadoop 🐘
+- Spark ⚡
+- Hive 🐝
+- Pig 🐷
+- R 📈
+```
+
+### • Machine Learning
+```
+- Artificial Intelligence 🤖
+- Deep Learning 🧠
+- Probability 🎲
+- Statistics 📊
+- Web Scraping 🕸️
+```
+
+### 📊 Database Management
+- The procedure of arranging, saving, and accessing data in a database system is known as database management.
+
+### 🧮 Multivariate Calculus and Linear Algebra
+- Advanced mathematical ideas used in machine learning and data analysis include multivariate calculus and linear algebra.
+
+### ☁️ Cloud Computing
+- Utilizing remote servers to store, control, and handle data and applications online is known as cloud computing.
+
+### 🛠️ DevOps
+- A technique of developing software that places a strong emphasis on teamwork and communication between the development and operations teams.
+
+### 📈 Business Intelligence
+- Business intelligence is the process of using tools and techniques for data analysis to acquire knowledge and guide business decisions.
+
+### 🔄 Data Extraction, Transformation, and Loading
+- Data collection, cleansing, and preparation for analysis is known as data extraction, transformation, and loading.
+
+### 🧠 Neural Networks
+- A data scientist should possess skills in designing, training, and fine-tuning neural networks for various use cases, as well as knowledge of different neural network architectures and frameworks.
+
+### 🚀 Model Deployment
+- Data scientists need expertise in model deployment, which involves making trained machine-learning models available for use in production environments.
+
+### 📚 Data Structures and Algorithms
+- The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
+
+## Non-Technical Skills
+- Scoping and Purpose
+- Governance
+- Assessment
+- Development Methodology
+- Tool Support
+- Skilled Team
+- Project Management
+- A Strong Business Acumen
+
+# Technical Experience 💻
+
+## Data Science
+- Statistical analysis and computing
+- Machine Learning
+- Deep Learning
+- Processing large data sets
+- Data Visualization
+- Data Wrangling
+- Mathematics
+- Programming
+- Statistics
+- Big Data
+
+## Great Data Intuition
+- This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
+
+## Analytical Mindset
+- The capacity to dissect complicated issues into their component parts, analyze those parts, and derive conclusions from the data.
+
+## "Out-of-the-Box” Thinking
+- Using creative and innovative thinking to generate novel ideas and unconventional answers.
+
+## Critical Thinking
+- The process of evaluating and analyzing data in order to make a judgment or choice is known as critical thinking.
+
+## Decision Making
+- Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
+
 </div>
 
 
