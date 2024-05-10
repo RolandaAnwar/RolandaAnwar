@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Rolanda Anwar</h1>
-<h3 align="left">Founder & Principal Enterprise Architect at Às̩e̩ Advisory and Tech</h3>
+<h3 align="left">Founder & Principal Enterprise Architect of Às̩e̩ Advisory and Tech</h3>
 
 
 <div align="left"> 
