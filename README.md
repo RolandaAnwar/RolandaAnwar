@@ -130,19 +130,19 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 
 # 💻 Technical Experience 💻
 
-### Great Data Intuition
+### 💡 Great Data Intuition
 - This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
 
-### Analytical Mindset
+### 🔍 Analytical Mindset
 - The capacity to dissect complicated issues into their component parts, analyze those parts, and derive conclusions from the data.
 
-### "Out-of-the-Box” Thinking
+### 📦 "Out-of-the-Box” Thinking
 - Using creative and innovative thinking to generate novel ideas and unconventional answers.
 
-### Critical Thinking
+### 🧠 Critical Thinking
 - The process of evaluating and analyzing data in order to make a judgment or choice is known as critical thinking.
 
-### Decision Making
+### 🤔 Decision Making
 - Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
 
 <div align="left">
