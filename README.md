@@ -25,7 +25,9 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 
 💬 Ask me about **Mentoring/Coaching Practices**
 
-📧 Reach me out: anwarrolanda@gmail.com
+🤝Affiliate Partnerships: https://calendly.com/aseadvisory/affiliate
+
+📝 Become a Client: https://calendly.com/aseadvisory/grant-application-rolanda
 
  </div>
 
