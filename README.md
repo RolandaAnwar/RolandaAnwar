@@ -16,11 +16,7 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 
 <div align="left">
  
- 🔭 I’m currently working on **Succession Planning Strategies for Equity Ownership Transfer**
- 
- 🌱 I’m currently learning more about **Next Generation Leadership Development**
-
-💬 Ask me about **Mentoring/Coaching Practices**
+💬 Ask me about grants for tech consultants by scheduling a meeting.
 
 🤝Affiliate Partnerships: https://calendly.com/aseadvisory/affiliate
 
@@ -29,7 +25,7 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
  </div>
 
 
-# 💼 Skills 💼
+# 💼 SKILLS 💼
   
 ###  • Enterprise Architecture
 ```code
@@ -75,31 +71,31 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 ```
 
 ### 📊 Database Management
-- The procedure of arranging, saving, and accessing data in a database system is known as database management.
+The procedure of arranging, saving, and accessing data in a database system is known as database management.
 
 ### 🧮 Multivariate Calculus and Linear Algebra
-- Advanced mathematical ideas used in machine learning and data analysis include multivariate calculus and linear algebra.
+Advanced mathematical ideas used in machine learning and data analysis include multivariate calculus and linear algebra.
 
 ### ☁️ Cloud Computing
-- Utilizing remote servers to store, control, and handle data and applications online is known as cloud computing.
+Utilizing remote servers to store, control, and handle data and applications online is known as cloud computing.
 
 ### 🛠️ DevOps
-- A technique of developing software that places a strong emphasis on teamwork and communication between the development and operations teams.
+A technique of developing software that places a strong emphasis on teamwork and communication between the development and operations teams.
 
 ### 📈 Business Intelligence
-- Business intelligence is the process of using tools and techniques for data analysis to acquire knowledge and guide business decisions.
+Business intelligence is the process of using tools and techniques for data analysis to acquire knowledge and guide business decisions.
 
 ### 🔄 Data Extraction, Transformation, and Loading
-- Data collection, cleansing, and preparation for analysis is known as data extraction, transformation, and loading.
+Data collection, cleansing, and preparation for analysis is known as data extraction, transformation, and loading.
 
 ### 🧠 Neural Networks
-- A data scientist should possess skills in designing, training, and fine-tuning neural networks for various use cases, as well as knowledge of different neural network architectures and frameworks.
+A data scientist should possess skills in designing, training, and fine-tuning neural networks for various use cases, as well as knowledge of different neural network architectures and frameworks.
 
 ### 🚀 Model Deployment
-- Data scientists need expertise in model deployment, which involves making trained machine-learning models available for use in production environments.
+Data scientists need expertise in model deployment, which involves making trained machine-learning models available for use in production environments.
 
 ### 📚 Data Structures and Algorithms
-- The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
+The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
 
 ### • Data Science
 ```
@@ -127,24 +123,24 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 - A Strong Business Acumen
 ```
 
-# 💻 Technical Experience 💻
+# 💻 TECHNICAL EXPERIENCE 💻
 
-### 💡 Great Data Intuition
-- This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
+###💡 Great Data Intuition
+This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
 
 ### 🔍 Analytical Mindset
-- The capacity to dissect complicated issues into their component parts, analyze those parts, and derive conclusions from the data.
+The capacity to dissect complicated issues into their component parts, analyze those parts, and derive conclusions from the data.
 
 ### 📦 "Out-of-the-Box” Thinking
-- Using creative and innovative thinking to generate novel ideas and unconventional answers.
+Using creative and innovative thinking to generate novel ideas and unconventional answers.
 
-### 🧠 Critical Thinking
-- The process of evaluating and analyzing data in order to make a judgment or choice is known as critical thinking.
+### 🧠 Critical Thinking 
+The process of evaluating and analyzing data in order to make a judgment or choice is known as critical thinking.
 
-### 🤔 Decision Making
-- Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
+### 🤔 Decision Making 
+Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
 
-# 📜 Certifications 📜
+# 📜 CERTIFICATIONS 📜
 <h3> • Data Science Certification</h3>
 <h3> • Journalism Certification</h3>
 <h3> • Property Management Certification</h3>
@@ -152,6 +148,5 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 <h3> • Title 31 and Anti-Money Laundering Certification</h3>
 
 
-# 📊 Github Stats 📊
-
+# 📊 GITHUB STATS 📊
 ![Rolanda Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandaAnwar&show_icons=true&theme=radical)
