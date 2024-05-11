@@ -28,13 +28,12 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 ## 💼 SKILLS 💼
   
 ###  • Enterprise Architecture
-```code
 - Organizational Architecture
 - Business Architecture
 - Information Architecture
 - Application Architecture
 - Technological Architecture
-```
+
 ###  • Thought Leader 
 ###  • Politics 
 ###  • Organizational Buy-in 
