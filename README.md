@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Rolanda Anwar</h1>
-<h3 align="left">FOUNDER & PRINCIPAL ENTERPRISE ARCHITECT OF ÀS̩E̩ ADVISORY AND TECH</h3>
+<h3 align="left"> Founder & Principal Enterprise Architect of Às̩e̩ Advisory and Tech</h3>
 
 <div align="left"> 
   <a href="https://calendly.com/aseadvisory/affiliate"><img src="https://img.shields.io/badge/Affiliate%20Partnerships-Schedule%20a%20Meeting-white?style=for-the-badge"></a>
