@@ -25,7 +25,7 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
  </div>
 
 
-# 💼 SKILLS 💼
+## 💼 SKILLS 💼
   
 ###  • Enterprise Architecture
 ```code
@@ -125,7 +125,7 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - A Strong Business Acumen
 
 
-# 💻 TECHNICAL EXPERIENCE 💻
+## 💻 TECHNICAL EXPERIENCE 💻
 
 ###💡 Great Data Intuition
 This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
@@ -142,7 +142,7 @@ The process of evaluating and analyzing data in order to make a judgment or choi
 ### 🤔 Decision Making 
 Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
 
-# 📜 CERTIFICATIONS 📜
+## 📜 CERTIFICATIONS 📜
 <h3> • Data Science Certification</h3>
 <h3> • Journalism Certification</h3>
 <h3> • Property Management Certification</h3>
@@ -150,5 +150,5 @@ Making decisions entails choosing the best course of action from a range of alte
 <h3> • Title 31 and Anti-Money Laundering Certification</h3>
 
 
-# 📊 GITHUB STATS 📊
+## 📊 GITHUB STATS 📊
 ![Rolanda Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandaAnwar&show_icons=true&theme=radical)
