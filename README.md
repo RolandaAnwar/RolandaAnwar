@@ -123,7 +123,7 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - A Mentor and A Guide Supporting Information and Communication Technology Decision Making 
 
 
-## 💻 TECHNICAL EXPERIENCE 💻
+## 💻 NON-TECHNICAL EXPERIENCE 💻
 
 ### 💡 GREAT DATA INTUITION
 This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
