@@ -46,29 +46,34 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 ###  • Organizational Culture 
 ###  • Training / Education 
 
-### • Programming Languages
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,java" /><br>
-</div>
-  
-### • Analytical Tools
-```
+### • PROGRAMMING LANGUAGES
+- Python
+- C
+- C++
+- SQL
+- Java
+- VBA (Visual Basic for Applications)
+- Julia
+- JavaScript
+- Scala
+- MATLAB
+- Swift
+
+### • ANALYTICAL TOOLS
 - SAS 📊
 - Hadoop 🐘
 - Spark ⚡
 - Hive 🐝
 - Pig 🐷
 - R 📈
-```
 
-### • Machine Learning
-```
+### • MACHINE LEARNING
 - Artificial Intelligence 🤖
 - Deep Learning 🧠
 - Probability 🎲
 - Statistics 📊
 - Web Scraping 🕸️
-```
+
 
 ### 📊 Database Management
 The procedure of arranging, saving, and accessing data in a database system is known as database management.
@@ -97,8 +102,7 @@ Data scientists need expertise in model deployment, which involves making traine
 ### 📚 Data Structures and Algorithms
 The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
 
-### • Data Science
-```
+### • DATA SCIENCE
 - Statistical analysis and computing
 - Machine Learning
 - Deep Learning
@@ -109,10 +113,8 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - Programming
 - Statistics
 - Big Data
-```
 
-### • Non-Technical Skills
-```
+### • NON-TECHNICAL SKILLS
 - Scoping and Purpose
 - Governance
 - Assessment
@@ -121,7 +123,7 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - Skilled Team
 - Project Management
 - A Strong Business Acumen
-```
+
 
 # 💻 TECHNICAL EXPERIENCE 💻
 
