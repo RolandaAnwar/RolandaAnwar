@@ -27,23 +27,12 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 
 ## 💼 SKILLS 💼
   
-###  • Enterprise Architecture
+###  • ENTERPRISE ARCHITECTURE
 - Organizational Architecture
 - Business Architecture
 - Information Architecture
 - Application Architecture
 - Technological Architecture
-
-###  • Thought Leader 
-###  • Politics 
-###  • Organizational Buy-in 
-###  • A Mentor and A Guide Supporting Information and Communication Technology Decision Making 
-###  • Common Language Trainer 
-###  • EA Model / Artifacts 
-###  • Commitment 
-###  • Business Driven Approach 
-###  • Organizational Culture 
-###  • Training / Education 
 
 ### • PROGRAMMING LANGUAGES
 - Python 🐍
@@ -74,31 +63,31 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 - Web Scraping 🕸️
 
 
-### 📊 Database Management
+### 📊 DATABASE MANAGEMENT
 The procedure of arranging, saving, and accessing data in a database system is known as database management.
 
-### 🧮 Multivariate Calculus and Linear Algebra
+### 🧮MULTIVARIATE CALCULUS AND LINEAR ALGEBRA
 Advanced mathematical ideas used in machine learning and data analysis include multivariate calculus and linear algebra.
 
-### ☁️ Cloud Computing
+### ☁️ CLOUD COMPUTING
 Utilizing remote servers to store, control, and handle data and applications online is known as cloud computing.
 
-### 🛠️ DevOps
+### 🛠️ DEVOPS
 A technique of developing software that places a strong emphasis on teamwork and communication between the development and operations teams.
 
-### 📈 Business Intelligence
+### 📈 BUSINESS INTELLIGENCE
 Business intelligence is the process of using tools and techniques for data analysis to acquire knowledge and guide business decisions.
 
-### 🔄 Data Extraction, Transformation, and Loading
+### 🔄 DATA EXTRACTION, TRANSFORMATION, AND LOADING
 Data collection, cleansing, and preparation for analysis is known as data extraction, transformation, and loading.
 
-### 🧠 Neural Networks
+### 🧠 NEURAL NETWORKS
 A data scientist should possess skills in designing, training, and fine-tuning neural networks for various use cases, as well as knowledge of different neural network architectures and frameworks.
 
-### 🚀 Model Deployment
+### 🚀 MODEL DEPLOYMENT
 Data scientists need expertise in model deployment, which involves making trained machine-learning models available for use in production environments.
 
-### 📚 Data Structures and Algorithms
+### 📚 DATA STRUCTURES AND ALGORITHMS
 The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
 
 ### • DATA SCIENCE
@@ -122,23 +111,33 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - Skilled Team
 - Project Management
 - A Strong Business Acumen
+- Thought Leader 
+- Politics 
+- Organizational Buy-in 
+- Common Language Trainer 
+- EA Model / Artifacts 
+- Commitment 
+- Business Driven Approach 
+- Organizational Culture 
+- Training / Education 
+- A Mentor and A Guide Supporting Information and Communication Technology Decision Making 
 
 
 ## 💻 TECHNICAL EXPERIENCE 💻
 
-### 💡 Great Data Intuition
+### 💡 GREAT DATA INTUITION
 This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
 
-### 🔍 Analytical Mindset
+### 🔍 ANALYTICAL MINDSET
 The capacity to dissect complicated issues into their component parts, analyze those parts, and derive conclusions from the data.
 
-### 📦 "Out-of-the-Box” Thinking
+### 📦 "OUT-OF-THE-BOX” THINKING
 Using creative and innovative thinking to generate novel ideas and unconventional answers.
 
-### 🧠 Critical Thinking 
+### 🧠 CRITICAL THINKING
 The process of evaluating and analyzing data in order to make a judgment or choice is known as critical thinking.
 
-### 🤔 Decision Making 
+### 🤔 DECISION MAKING
 Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
 
 ## 📜 CERTIFICATIONS 📜
