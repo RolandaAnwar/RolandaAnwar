@@ -27,14 +27,14 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 
 ## 💼 SKILLS 💼
   
-###  • ENTERPRISE ARCHITECTURE
+### ENTERPRISE ARCHITECTURE
 - Organizational Architecture
 - Business Architecture
 - Information Architecture
 - Application Architecture
 - Technological Architecture
 
-### • PROGRAMMING LANGUAGES
+### PROGRAMMING LANGUAGES
 - Python 🐍
 - C 📝
 - C++ 💻
@@ -47,7 +47,7 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 - MATLAB 🧮
 - Swift 🍏
 
-### • ANALYTICAL TOOLS
+### ANALYTICAL TOOLS
 - SAS 📊
 - Hadoop 🐘
 - Spark ⚡
@@ -55,7 +55,7 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 - Pig 🐷
 - R 📈
 
-### • MACHINE LEARNING
+### MACHINE LEARNING
 - Artificial Intelligence 🤖
 - Deep Learning 🧠
 - Probability 🎲
@@ -90,7 +90,7 @@ Data scientists need expertise in model deployment, which involves making traine
 ### 📚 DATA STRUCTURES AND ALGORITHMS
 The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
 
-### • DATA SCIENCE
+### DATA SCIENCE
 - Statistical analysis and computing
 - Machine Learning
 - Deep Learning
@@ -102,7 +102,7 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - Statistics
 - Big Data
 
-### • NON-TECHNICAL SKILLS
+### NON-TECHNICAL SKILLS
 - Scoping and Purpose
 - Governance
 - Assessment
