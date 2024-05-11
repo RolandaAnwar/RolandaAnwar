@@ -103,25 +103,26 @@ The fundamental ideas in computer science that underpin effective data storage, 
 - Statistics
 - Big Data
 
-### NON-TECHNICAL SKILLS
-- Scoping and Purpose
-- Governance
-- Assessment
-- Development Methodology
-- Tool Support
-- Skilled Team
-- Project Management
-- A Strong Business Acumen
-- Thought Leader 
-- Politics 
-- Organizational Buy-in 
-- Common Language Trainer 
-- EA Model / Artifacts 
-- Commitment 
-- Business Driven Approach 
-- Organizational Culture 
-- Training / Education 
-- A Mentor and A Guide Supporting Information and Communication Technology Decision Making 
+### NON-TECHNICAL SKILLSNon-Technical Skills
+
+- Scoping and Purpose: Expertise in defining project scopes and objectives aligned with business values and goals.
+- Governance: Proficient in establishing policies and frameworks that ensure project accountability and compliance.
+- Assessment: Skilled in evaluating systems and processes to identify areas for improvement and integration.
+- Development Methodology: Experienced in applying structured methodologies and project management practices to enhance business outcomes.
+- - Tool Support: Adept at leveraging the right tools to streamline project execution and deliver effective solutions.
+- Skilled Team Building: Ability to assemble and mentor teams, fostering collaboration and driving project success.
+- Project Management: Strong organizational skills, ensuring projects are delivered on time and within budget.
+- Business Acumen: Deep understanding of business operations and economic principles, particularly in the context of small businesses.
+- Thought Leadership: Recognized for forward-thinking approaches and insights into business and economic trends.
+- Politics: Navigating corporate politics effectively to secure project support and alignment.
+- Organizational Buy-in: Expert in securing stakeholder agreement and fostering an environment supportive of change.
+- Common Language Trainer: Proficient in developing and delivering training that simplifies complex concepts for diverse audiences.
+- EA Model/Artifacts: Skilled in creating and maintaining architectural models and artifacts that align with business goals.
+- Commitment: Dedicated to achieving project goals and long-term business success.
+- Business-Driven Approach: Prioritizes strategies and decisions that directly enhance business value and growth.
+- Organizational Culture: Expert in shaping and nurturing a culture that supports innovation and adaptability.
+- Training/Education: Committed to ongoing professional development and education for team and self.
+- Mentorship and Guidance: Acts as a mentor and guide, supporting informed decision-making in information and communication technology.g 
 
 
 ## 💻 NON-TECHNICAL EXPERIENCE 💻
