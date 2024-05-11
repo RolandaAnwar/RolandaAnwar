@@ -26,129 +26,76 @@ Let’s innovate and grow together.
  </div>
 
 
-## 💼 SKILLS 💼
-  
-### ENTERPRISE ARCHITECTURE
-- Organizational Architecture
-- Business Architecture
-- Information Architecture
-- Application Architecture
-- Technological Architecture
+## 💼 Skills Overview 💼
 
-### PROGRAMMING LANGUAGES
-- Python 🐍
-- C 📝
-- C++ 💻
-- SQL 🗃️
-- Java ☕
-- VBA (Visual Basic for Applications) 📊
-- Julia 📊
-- JavaScript 💻
-- Scala 🚀
-- MATLAB 🧮
-- Swift 🍏
+### 🌐 Enterprise Architecture
+- **Organizational, Business, Information, Application, Technological**
+- Crafting the blueprint of your business's future.
 
-### ANALYTICAL TOOLS
-- SAS 📊
-- Hadoop 🐘
-- Spark ⚡
-- Hive 🐝
-- Pig 🐷
-- R 📈
+### 👨‍💻 Programming Languages
+- **Python, C, C++, SQL, Java, VBA, Julia, JavaScript, Scala, MATLAB, Swift**
+- From scripts to systems, coding in multiple languages to solve complex problems.
 
-### MACHINE LEARNING
-- Artificial Intelligence 🤖
-- Deep Learning 🧠
-- Probability 🎲
-- Statistics 📊
-- Web Scraping 🕸️
+### 🧮 Analytical Tools
+- **SAS, Hadoop, Spark, Hive, Pig, R**
+- Big Data technologies that turn raw data into insights.
 
+### 🤖 Machine Learning
+- **AI, Deep Learning, Probability, Statistics, Web Scraping**
+- Leveraging data to predict, automate, and innovate.
 
-### 📊 DATABASE MANAGEMENT
-The procedure of arranging, saving, and accessing data in a database system is known as database management.
+### 📊 Data Management
+- **Database management, Multivariate Calculus, Linear Algebra**
+- Structuring and analyzing data for high-level decision-making.
 
-### 🧮MULTIVARIATE CALCULUS AND LINEAR ALGEBRA
-Advanced mathematical ideas used in machine learning and data analysis include multivariate calculus and linear algebra.
+### ☁️ Cloud Computing
+- **Remote server management for data and applications**
+- Harnessing the power of the cloud for flexibility and scalability.
 
-### ☁️ CLOUD COMPUTING
-Utilizing remote servers to store, control, and handle data and applications online is known as cloud computing.
+### 🛠️ DevOps
+- **Integrating development and operations**
+- Enhancing collaboration to streamline software delivery.
 
-### 🛠️ DEVOPS
-A technique of developing software that places a strong emphasis on teamwork and communication between the development and operations teams.
+### 📈 Business Intelligence
+- **Data-driven strategies for smarter decision-making**
+- Transforming data into actionable business insights.
 
-### 📈 BUSINESS INTELLIGENCE
-Business intelligence is the process of using tools and techniques for data analysis to acquire knowledge and guide business decisions.
+### 🔄 Data Operations
+- **ETL (Extraction, Transformation, and Loading)**
+- Preparing data landscapes for analysis and reporting.
 
-### 🔄 DATA EXTRACTION, TRANSFORMATION, AND LOADING
-Data collection, cleansing, and preparation for analysis is known as data extraction, transformation, and loading.
+### 🧠 Advanced Computing
+- **Neural Networks, Model Deployment, Data Structures, Algorithms**
+- Building and deploying sophisticated computational models.
 
-### 🧠 NEURAL NETWORKS
-A data scientist should possess skills in designing, training, and fine-tuning neural networks for various use cases, as well as knowledge of different neural network architectures and frameworks.
+## 🚀 Non-Technical Skills
 
-### 🚀 MODEL DEPLOYMENT
-Data scientists need expertise in model deployment, which involves making trained machine-learning models available for use in production environments.
+### 🗣️ Communication & Leadership
+- **Project management, Team building, Business acumen**
+- Leading projects and people towards shared goals with clarity and purpose.
 
-### 📚 DATA STRUCTURES AND ALGORITHMS
-The fundamental ideas in computer science that underpin effective data storage, retrieval, and computational problems are known as data structures and algorithms.
+### 🧐 Strategic Thinking
+- **Thought leadership, Decision making, Critical analysis**
+- Navigating business landscapes with innovative and analytical approaches.
 
-### DATA SCIENCE
-- Statistical analysis and computing
-- Machine Learning
-- Deep Learning
-- Processing large data sets
-- Data Visualization
-- Data Wrangling
-- Mathematics
-- Programming
-- Statistics
-- Big Data
+### 🌟 Professional Development
+- **Training, Mentorship, Organizational culture**
+- Fostering a learning environment that encourages growth and adaptation.
 
-### NON-TECHNICAL SKILLSNon-Technical Skills
+## 📜 Certifications 📜
+- **TOGAF® Certification** - Leading enterprise architecture framework.
+- **Zachman Certification** - Comprehensive enterprise architecture modeling.
+- **Certified Information Systems Auditor (CISA)** - Expertise in information systems control.
+- **Certified Information Systems Security Professional (CISSP)** - Security in enterprise architecture.
+- **AWS Certified Solutions Architect** - Proficiency in AWS cloud architecture.
+- **Microsoft Certified: Azure Solutions Architect Expert** - Mastery in Azure cloud solutions.
+- **Google Professional Cloud Architect** - Expertise in Google Cloud Platform.
+- **ArchiMate® Certification** - Skills in enterprise architecture visualization.
 
-- Scoping and Purpose: Expertise in defining project scopes and objectives aligned with business values and goals.
-- Governance: Proficient in establishing policies and frameworks that ensure project accountability and compliance.
-- Assessment: Skilled in evaluating systems and processes to identify areas for improvement and integration.
-- Development Methodology: Experienced in applying structured methodologies and project management practices to enhance business outcomes.
-- - Tool Support: Adept at leveraging the right tools to streamline project execution and deliver effective solutions.
-- Skilled Team Building: Ability to assemble and mentor teams, fostering collaboration and driving project success.
-- Project Management: Strong organizational skills, ensuring projects are delivered on time and within budget.
-- Business Acumen: Deep understanding of business operations and economic principles, particularly in the context of small businesses.
-- Thought Leadership: Recognized for forward-thinking approaches and insights into business and economic trends.
-- Politics: Navigating corporate politics effectively to secure project support and alignment.
-- Organizational Buy-in: Expert in securing stakeholder agreement and fostering an environment supportive of change.
-- Common Language Trainer: Proficient in developing and delivering training that simplifies complex concepts for diverse audiences.
-- EA Model/Artifacts: Skilled in creating and maintaining architectural models and artifacts that align with business goals.
-- Commitment: Dedicated to achieving project goals and long-term business success.
-- Business-Driven Approach: Prioritizes strategies and decisions that directly enhance business value and growth.
-- Organizational Culture: Expert in shaping and nurturing a culture that supports innovation and adaptability.
-- Training/Education: Committed to ongoing professional development and education for team and self.
-- Mentorship and Guidance: Acts as a mentor and guide, supporting informed decision-making in information and communication technology.g 
-
-
-## 💻 NON-TECHNICAL EXPERIENCE 💻
-
-### 💡 GREAT DATA INTUITION
-This is perhaps one of the most significant non-technical data scientist skills. Valuable data insights are not always apparent in large data sets, and a knowledgeable data scientist has intuition and knows when to look beyond the surface for insightful information. This makes data scientists more efficient in their work, and gaining this skill comes from experience and the right training. However, this data scientist skill comes with experience and bootcamps are a great way of polishing it.
-
-### 🔍 ANALYTICAL MINDSET
-The capacity to dissect complicated issues into their component parts, analyze those parts, and derive conclusions from the data.
-
-### 📦 "OUT-OF-THE-BOX” THINKING
-Using creative and innovative thinking to generate novel ideas and unconventional answers.
-
-### 🧠 CRITICAL THINKING
-The process of evaluating and analyzing data in order to make a judgment or choice is known as critical thinking.
-
-### 🤔 DECISION MAKING
-Making decisions entails choosing the best course of action from a range of alternatives after carefully weighing all pertinent information.
-
-## 📜 CERTIFICATIONS 📜
-<h3> • Data Science Certification</h3>
-<h3> • Journalism Certification</h3>
-<h3> • Property Management Certification</h3>
-<h3> • Marketing Management Certification</h3>
-<h3> • Title 31 and Anti-Money Laundering Certification</h3>
-
-
-## 📊 GITHUB STATS 📊
+## 📊 GitHub Stats 📊
 ![Rolanda Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandaAnwar&show_icons=true&theme=radical)
+
+---
+
+#### Engage with me to explore how we can drive your business forward through technology and innovation.
+#### Let's turn data into decisions, and decisions into success.
