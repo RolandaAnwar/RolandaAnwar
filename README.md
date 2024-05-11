@@ -1,12 +1,9 @@
 <h1 align="left">👋 Hello, I'm Rolanda Anwar</h1>
 <h3 align="left">Founder & Principal Enterprise Architect of Às̩e̩ Advisory and Tech</h3>
 
-
-
-
 <div align="left"> 
   <a href="https://calendly.com/aseadvisory/affiliate"><img src="https://img.shields.io/badge/Affiliate%20Partnerships-Schedule%20a%20Meeting-orange?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/rolandaanwar/" target="_blank">
+  <a href="https://www.linkedin.com/company/aseadvisoryandtech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
