@@ -9,7 +9,7 @@
 </div>
 
 <br> 
-Seasoned leader with three decades of entrepreneurial expertise, committed to economic equality and driving remarkable success. Raised over $850 million in the past two years. Às̩e̩ Advisory and Tech, a strategic advisory firm, focuses on social economic return on investment and builds alliances for meaningful global impact. Excels in alternative funding, cybersecurity, and asset security, ensuring comprehensive client support. Proven track record and passion make me an invaluable partner for transformative success. Let's collaborate to create something extraordinary. For startup, growth, acquisition, and exit strategies, contact Às̩e̩ Advisory and Tech at www.aseadvisory.com
+A seasoned leader with three decades of experience in entrepreneurship, dedicated to economic equality and achieving outstanding success. In the past two years alone, I have facilitated the raising of over $850 million. At Às̩e̩ Advisory and Tech, we are driven by a commitment to social and economic returns on investment and forge strategic alliances for significant global impacts. My expertise spans alternative funding, cybersecurity, and asset security, ensuring robust support for all clients. With a proven track record and a deep passion for transformation, I am poised to be an invaluable partner for your business. Together, we can achieve extraordinary things. For comprehensive solutions in startup, growth, acquisition, and exit strategies, visit Às̩e̩ Advisory and Tech at www.aseadvisory.com. Let’s innovate and grow together.
  <br>
 
 <br> 
