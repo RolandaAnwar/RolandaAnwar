@@ -47,17 +47,17 @@ Seasoned leader with three decades of entrepreneurial expertise, committed to ec
 ###  • Training / Education 
 
 ### • PROGRAMMING LANGUAGES
-- Python
-- C
-- C++
-- SQL
-- Java
-- VBA (Visual Basic for Applications)
-- Julia
-- JavaScript
-- Scala
-- MATLAB
-- Swift
+- Python 🐍
+- C 📝
+- C++ 💻
+- SQL 🗃️
+- Java ☕
+- VBA (Visual Basic for Applications) 📊
+- Julia 📊
+- JavaScript 💻
+- Scala 🚀
+- MATLAB 🧮
+- Swift 🍏
 
 ### • ANALYTICAL TOOLS
 - SAS 📊
