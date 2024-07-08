@@ -9,7 +9,7 @@
 </div>
 
 <br> 
-A seasoned leader with three decades of experience in entrepreneurship, dedicated to economic equality and achieving outstanding success. In the past two years alone, I have facilitated the raising of over $850 million. At Às̩e̩ Advisory and Tech, we are driven by a commitment to social and economic returns on investment and forge strategic alliances for significant global impacts. My expertise spans alternative funding, cybersecurity, and asset security, ensuring robust support for all clients. With a proven track record and a deep passion for transformation, I am poised to be an invaluable partner for your business. Together, we can achieve extraordinary things. For comprehensive solutions in startup, growth, acquisition, and exit strategies, visit Às̩e̩ Advisory and Tech at www.aseadvisory.com. 
+A seasoned leader with three decades of experience in entrepreneurship, dedicated to economic equality and achieving outstanding success. In the past two years alone, I have facilitated the raising of over $850 million. At Às̩e̩ Advisory and Tech, we are driven by a commitment to social and economic returns on investment and forge strategic alliances for significant global impacts in enterprise architecture for small business. My expertise spans alternative funding, cybersecurity, and asset security, ensuring robust support for all clients. With a proven track record and a deep passion for transformation, I am poised to be an invaluable partner for your business. Together, we can achieve extraordinary things. For comprehensive solutions in startup, growth, acquisition, and exit strategies, visit Às̩e̩ Advisory and Tech at www.aseadvisory.com. 
 Let’s innovate and grow together.
  <br>
 
