@@ -21,7 +21,7 @@ Let’s innovate and grow together.
 
 🤝Affiliate Partnerships: https://calendly.com/aseadvisory/affiliate
 
-📝 Become a Client: https://calendly.com/aseadvisory/grant-application-rolanda
+📝 Become a Client: https://calendly.com/aseadvisory/factfinding
 
  </div>
 
